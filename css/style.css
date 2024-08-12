@@ -1,0 +1,57 @@
+body {
+   margin: 0px;
+   padding: 0px;
+}
+
+.texts {
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/* Buttons */
+
+.btn-div {
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.btn-hover:hover {
+   background-color: black;
+   color: #ffc107;
+}
+
+/* Card And Form */
+
+.card-form-div {
+   margin-bottom: 30px;
+}
+
+/* Card */
+
+.card-div {
+   height: 562px;
+   overflow: clip;
+}
+
+.card-description {
+   font-size: 16.5px;
+}
+
+/* Form */
+
+.form-div {
+   color: white;
+}
+
+.gender {
+   display: flex;
+   justify-content: space-between;
+}
+
+.form-btn {
+   display: flex;
+   justify-content: flex-end;
+}
+     
+.buttons {
+   width: 80px;
+}
